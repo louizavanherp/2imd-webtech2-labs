@@ -18,3 +18,7 @@
 ![Screenshot](https://image.ibb.co/gwZuTH/grid_Screenshot.png)  
 
 **Kweeni homepage** → https://codepen.io/smtsj/pen/EQOjNP
+
+## Week 3 - ES6 Notes App ## 
+
+**Notes app** → https://codepen.io/smtsj/pen/WMWdrq
