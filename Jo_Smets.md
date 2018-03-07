@@ -2,6 +2,10 @@
 
 - - - -
 
+## Webtech 2 Portfolio Repo ##  
+
+**Webtech 2 Portfolio Repo** → https://github.com/smtsj/Webtech2-portfolio
+
 ## Week 1 - GIT ##  
 
 **Link Kweeni** → https://github.com/smtsj/kweeni_imd  
