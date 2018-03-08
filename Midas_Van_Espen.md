@@ -1,3 +1,6 @@
+Link to portfolio repository:  
+https://github.com/MidasVE/Webtech2-Portfolio
+
 # Week 1
 
 ## Webtech lab 1
@@ -24,3 +27,4 @@ https://codepen.io/MidasVE/pen/PQadqe
 ## ES6 Workshop: Notes App
 link to codepen:
 https://codepen.io/MidasVE/pen/zRXEdJ
+
