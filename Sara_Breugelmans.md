@@ -21,11 +21,13 @@ Screenshot cssgridgarden:
 Link KWEENI codepen:  
   https://codepen.io/sarabreugelmans2/pen/OQwoKd?editors=1100
 
+Link repository:
+  https://github.com/sarabreugelmans2/webtech3/tree/master/week2
 
 # WEEK 3 #
 
 Link codepen:
-  https://codepen.io/sarabreugelmans2/pen/gvqdKp?editors=1111
+  https://codepen.io/sarabreugelmans2/pen/gvqdKp
 
-Link private repos:
+Link repository:
   https://github.com/sarabreugelmans2/webtech3/tree/master/week3
