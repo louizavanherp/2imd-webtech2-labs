@@ -26,3 +26,5 @@
 ## Week 3 - ES6 Notes App ## 
 
 **Notes app** → https://codepen.io/smtsj/pen/WMWdrq
+
+**Notes app on Github** → https://github.com/smtsj/Webtech2-portfolio/tree/master/Week%203/notesapp
