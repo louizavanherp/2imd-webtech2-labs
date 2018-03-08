@@ -2,6 +2,10 @@
 
 - - - -
 
+## Webtech 2 Portfolio Repo ##  
+
+**Webtech 2 Portfolio Repo** → https://github.com/smtsj/Webtech2-portfolio
+
 ## Week 1 - GIT ##  
 
 **Link Kweeni** → https://github.com/smtsj/kweeni_imd  
@@ -18,3 +22,9 @@
 ![Screenshot](https://image.ibb.co/gwZuTH/grid_Screenshot.png)  
 
 **Kweeni homepage** → https://codepen.io/smtsj/pen/EQOjNP
+
+## Week 3 - ES6 Notes App ## 
+
+**Notes app** → https://codepen.io/smtsj/pen/WMWdrq
+
+**Notes app on Github** → https://github.com/smtsj/Webtech2-portfolio/tree/master/Week%203/notesapp
