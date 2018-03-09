@@ -58,6 +58,6 @@ Github Repo: <https://github.com/laurensdelombaert/webtech-portfolio>
 
 ## Week 4: NodeJS
 
-Github Repo (watis branch): <https://github.com/laurensdelombaert/laboteam11>
+Github Repo (watis branch): <https://github.com/laurensdelombaert/laboteam11/tree/watis>
 
 Heroku app: <https://laurensdelombaert-kweeni.herokuapp.com/kweenie/wat-is-express-js-en-waarvoor-dient-het>
