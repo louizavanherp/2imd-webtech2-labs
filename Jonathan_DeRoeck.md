@@ -19,3 +19,11 @@
 
 - gridGarden:
 ![screenshot](https://i.imgur.com/sPevKkx.png)
+
+# Week 3:
+
+- repository notes app:
+[Repository](https://github.com/Jderoeck/notesApp)
+
+- codepen notes app:
+[codepen](https://codepen.io/Jderoeck/pen/BYMOVK?editors=1111)
