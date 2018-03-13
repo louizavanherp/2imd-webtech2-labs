@@ -20,3 +20,23 @@ Screenshot cssgridgarden:
 
 Link KWEENI codepen:  
   https://codepen.io/sarabreugelmans2/pen/OQwoKd?editors=1100
+
+Link repository:
+  https://github.com/sarabreugelmans2/webtech3/tree/master/week2
+
+# WEEK 3 #
+
+Link codepen:
+  https://codepen.io/sarabreugelmans2/pen/gvqdKp
+
+Link repository:
+  https://github.com/sarabreugelmans2/webtech3/tree/master/week3
+
+# WEEK 4 #
+
+Link heroku:
+  https://sarabreugelmans.herokuapp.com/wat-is-express-js
+Link repository:
+  https://github.com/sarabreugelmans2/webtech3W4
+  Commited changes on:
+  https://github.com/sarabreugelmans2/webtech3/tree/master/week4
