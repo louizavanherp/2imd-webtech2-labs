@@ -2,11 +2,15 @@
 ### WEEK 1
 
 [Project link](https://github.com/RafaelDesignBE/project_kweeni)
-![Git Hub course](https://s10.postimg.org/x7bov9i3r/proof_finished_course.jpg)
+![Git Finished Course](https://postimg.org/image/6z0k5vy05/)
 
 ### WEEK 2
 [link CodePen](https://codepen.io/Proserpina/pen/MQLYxG)
-![FlexBox course](https://s10.postimg.org/luz3dkovb/Flex_Box_Froggy_screenshot.jpg)
-![Grid Garden course](https://s10.postimg.org/w51icup1j/grid_garden_screenshot.jpg)
+![Flex Box course finished](https://postimg.org/image/fu1egi291/)
+![Grid Garden finished](https://postimg.org/image/whswj17b9/)
 
 ### WEEK 3
+[Link CodePen](https://codepen.io/Proserpina/pen/geYrGQ?editors=1111)
+[Link Git Repository](https://github.com/BRafaela/Webtech3-Personal)
+
+### WEEK 4
