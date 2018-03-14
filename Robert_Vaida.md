@@ -2,7 +2,7 @@
 
 ### Week 1 - Git
 
-Kweeni Project link -> [link to repository](https://github.com/RafaelDesignBE/project_kweeni) 
+Kweeni Project link -> [link to repository](https://github.com/RafaelDesignBE/project_kweeni)
 
 Git-It link -> [link to screenshot](https://imgur.com/0kjwCLU)
 
@@ -24,6 +24,12 @@ Kweeni Homepage link -> [link to codepen](https://codepen.io/robitica/pen/KQeZVL
 
 ### Week 3 - ES6
 
-GitHub Notes App link -> [link to repository](https://github.com/robitica/private-webtech3/tree/master/notes-app) 
+GitHub Notes App link -> [link to repository](https://github.com/robitica/private-webtech3/tree/master/notes-app)
 
-Notes App -> [link to codepen](https://codepen.io/robitica/pen/jZdewx) 
+Notes App -> [link to codepen](https://codepen.io/robitica/pen/jZdewx)
+
+### Week 4 - Node.js & Express
+
+GitHub Kweeni Homepage Express App link -> [link to repository](https://github.com/robitica/private-webtech3/tree/master/kweeni-express)
+
+Kweeni homepage Express App -> [link to Heroku](https://kweeni.herokuapp.com)
