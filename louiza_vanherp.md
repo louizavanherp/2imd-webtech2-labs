@@ -13,3 +13,15 @@ https://codepen.io/louizavanherp/pen/JpxPqR?editors=1100
 ### screenshot Css grid garden 
 ![alt text](https://i.imgur.com/7mmMsRF.png)
 
+## week 3
+### codepen link newNotes
+https://codepen.io/louizavanherp/pen/WzNrPy
+### githuhb link newNotes
+https://github.com/louizavanherp/portfolio
+
+## week 4
+### heroku link 
+https://kweenie.herokuapp.com/detail
+
+### github repository
+https://github.com/louizavanherp/Kweeni_Louiza_Vanherp.git
